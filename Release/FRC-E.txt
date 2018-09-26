@@ -1,0 +1,762 @@
+The Project Gutenberg Etext of Ulysses
+by James Joyce
+(#4 in our series by James Joyce)
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before distributing this or any other
+Project Gutenberg file.
+
+We encourage you to keep this file, exactly as it is, on your
+own disk, thereby keeping an electronic path open for future
+readers.  Please do not remove this.
+
+This header should be the first thing seen when anyone starts to
+view the etext. Do not change or edit it without written permission.
+The words are carefully chosen to provide users with the
+information they need to understand what they may and may not
+do with the etext.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*****These Etexts Are Prepared By Thousands of Volunteers!*****
+
+Information on contacting Project Gutenberg to get etexts, and
+further information, is included below.  We need your donations.
+
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3)
+organization with EIN [Employee Identification Number] 64-6221541
+
+
+
+Title: Ulysses
+
+Author: James Joyce
+
+Release Date: July, 2003  [Etext #4300]
+[Yes, we are more than one year ahead of schedule]
+[This file was first posted on December 27, 2001]
+
+Edition: 10
+
+Language: English
+
+Character set encoding: ASCII
+
+The Project Gutenberg Etext of Ulysses
+by James Joyce
+******This file should be named ulyss10.txt or ulyss10.zip******
+
+Corrected EDITIONS of our etexts get a new NUMBER, ulyss11.txt
+VERSIONS based on separate sources get new LETTER, ulyss10a.txt
+
+This etext was prepared by Col Choat <colchoat@yahoo.com.au>.
+
+Project Gutenberg Etexts are often created from several printed
+editions, all of which are confirmed as Public Domain in the US
+unless a copyright notice is included.  Thus, we usually do not
+keep etexts in compliance with any particular paper edition.
+
+We are now trying to release all our etexts one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our sites at:
+http://gutenberg.net or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+Gutenberg, including how to donate, how to help produce our new
+etexts, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any Etext before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext03 or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.   Our
+projected audience is one hundred million readers.  If the value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour in 2001 as we release over 50 new Etext
+files per month, or 500 more Etexts in 2000 for a total of 4000+
+If they reach just 1-2% of the world's population then the total
+should reach over 300 billion Etexts given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 4,000 Etexts.  We need
+funding, as well as continued efforts by volunteers, to maintain
+or increase our production and reach our goals.
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of November, 2001, contributions are being solicited from people
+and organizations in: Alabama, Arkansas, Connecticut, Delaware,
+Florida, Georgia, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky,
+Louisiana, Maine, Michigan, Missouri, Montana, Nebraska, Nevada, New
+Jersey, New Mexico, New York, North Carolina, Oklahoma, Oregon,
+Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee,
+Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin,
+and Wyoming.
+
+*In Progress
+
+We have filed in about 45 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met, additions to this list
+will be made and fund raising will begin in the additional states.
+Please feel free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork to legally
+request donations in all 50 states.  If your state is not listed and
+you would like to know if we have added it since the list you have,
+just ask.
+
+While we cannot solicit donations from people in states where we are
+not yet registered, we know of no prohibition against accepting
+donations from donors in these states who approach us with an offer to
+donate.
+
+International donations are accepted, but we don't know ANYTHING about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+All donations should be made to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+9035u836089523897430297348902459725790458308424250478349456864651238464684236
+85
+
+Contact us if you want to arrange for a wire transfer or payment
+method other than by check or money order.
+
+
+The Project Gutenberg Literary Archive Foundation has been approved by
+the US Internal Revenue Service as a 501(c)(3) organization with EIN
+[Employee Identification Number] 64-622154.  Donations are
+tax-deductible to the maximum extent permitted by law.  As fundraising
+requirements for other states are met, additions to this list will be
+made and fundraising will begin in the additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+Prof. Hart will answer or forward your message.
+
+We5 would prefer to send you information by email.
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-tm etexts,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this etext from as a PROJECT GUTENBERG-tm etext) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this etext,
+[2] alteration, modification, or addition to the etext,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this header are copyright (C) 2001 by Michael S. Hart
+and may be reprinted only when these Etexts are free of all fees.]
+[Project Gutenberg is a TradeMark and may not be used in any sales
+of Project Gutenberg Etexts or other materials be they hardware or
+software or any other related product without express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.10/04/01*END*
+
+
+
+
+This etext was prepared by Col Choat <colchoat@yahoo.com.au>.
+
+Ulysses by James Joyce
+
+
+    -- I --
+
+
+
+Stately, plump Buck Mulligan came from the stairhead, bearing a bowl of
+lather on which a mirror and a razor lay crossed. A yellow dressinggown,
+ungirdled, was sustained gently behind him on the mild morning air. He
+held the bowl aloft and intoned:
+
+--INTROIBO AD ALTARE DEI.
+
+Halted, he peered down the dark winding stairs and called out coarsely:
+
+--Come up, Kinch! Come up, you fearful jesuit!
+
+Solemnly he came forward and mounted the round gunrest. He faced
+about and blessed gravely thrice the tower, the surrounding land and the
+awaking mountains. Then, catching sight of Stephen Dedalus, he bent
+towards him and made rapid crosses in the air, gurgling in his throat and
+shaking his head. Stephen Dedalus, displeased and sleepy, leaned his arms
+on the top of the staircase and looked coldly at the shaking gurgling face
+that blessed him, equine in its length, and at the light untonsured hair,
+grained and hued like pale oak.
+
+Buck Mulligan peeped an instant under the mirror and then covered
+the bowl smartly.
+
+--Back to barracks! he said sternly.
+
+He added in a preacher's tone:
+
+--For this, O dearly beloved, is the genuine Christine: body and soul and
+blood and ouns. Slow music, please. Shut your eyes, gents. One moment. A
+little trouble about those white corpuscles. Silence, all.
+
+He peered sideways up and gave a long slow whistle of call, then
+paused awhile in rapt attention, his even white teeth glistening here and
+there with gold points. Chrysostomos. Two strong shrill whistles answered
+through the calm.
+
+--Thanks, old chap, he cried briskly. That will do nicely. Switch off the
+current, will you?
+
+He skipped off the gunrest and looked gravely at his watcher,
+gathering about his legs the loose folds of his gown. The plump shadowed
+face and sullen oval jowl recalled a prelate, patron of arts in the middle
+ages. A pleasant smile broke quietly over his lips.
+
+--The mockery of it! he said gaily. Your absurd name, an ancient Greek!
+
+He pointed his finger in friendly jest and went over to the parapet,
+laughing to himself. Stephen Dedalus stepped up, followed him wearily
+halfway and sat down on the edge of the gunrest, watching him still as he
+propped his mirror on the parapet, dipped the brush in the bowl and
+lathered cheeks and neck.
+
+Buck Mulligan's gay voice went on.
+
+--My name is absurd too: Malachi Mulligan, two dactyls. But it has a
+Hellenic ring, hasn't it? Tripping and sunny like the buck himself. We
+must go to Athens. Will you come if I can get the aunt to fork out twenty
+quid?
+
+He laid the brush aside and, laughing with delight, cried:
+
+--Will he come? The jejune jesuit!
+
+Ceasing, he began to shave with care.
+
+--Tell me, Mulligan, Stephen said quietly.
+
+--Yes, my love?
+
+--How long is Haines going to stay in this tower?
+
+Buck Mulligan showed a shaven cheek over his right shoulder.
+
+--God, isn't he dreadful? he said frankly. A ponderous Saxon. He thinks
+you're not a gentleman. God, these bloody English! Bursting with money
+and indigestion. Because he comes from Oxford. You know, Dedalus, you
+have the real Oxford manner. He can't make you out. O, my name for you
+is the best: Kinch, the knife-blade.
+
+He shaved warily over his chin.
+
+--He was raving all night about a black panther, Stephen said. Where is
+his guncase?
+
+--A woful lunatic! Mulligan said. Were you in a funk?
+
+--I was, Stephen said with energy and growing fear. Out here in the dark
+with a man I don't know raving and moaning to himself about shooting a
+black panther. You saved men from drowning. I'm not a hero, however. If
+he stays on here I am off.
+
+Buck Mulligan frowned at the lather on his razorblade. He hopped
+down from his perch and began to search his trouser pockets hastily.
+
+--Scutter! he cried thickly.
+
+He came over to the gunrest and, thrusting a hand into Stephen's
+upper pocket, said:
+
+--Lend us a loan of your noserag to wipe my razor.
+
+Stephen suffered him to pull out and hold up on show by its corner a
+dirty crumpled handkerchief. Buck Mulligan wiped the razorblade neatly.
+Then, gazing over the handkerchief, he said:
+
+--The bard's noserag! A new art colour for our Irish poets: snotgreen.
+You can almost taste it, can't you?
+
+He mounted to the parapet again and gazed out over Dublin bay, his
+fair oakpale hair stirring slightly.
+
+--God! he said quietly. Isn't the sea what Algy calls it: a great sweet
+mother? The snotgreen sea. The scrotumtightening sea. EPI OINOPA PONTON.
+Ah, Dedalus, the Greeks! I must teach you. You must read them in the
+original. THALATTA! THALATTA! She is our great sweet mother. Come and
+look.
+
+Stephen stood up and went over to the parapet. Leaning on it he
+looked down on the water and on the mailboat clearing the harbourmouth
+of Kingstown.
+
+--Our mighty mother! Buck Mulligan said.
+
+He turned abruptly his grey searching eyes from the sea to Stephen's
+face.
+
+--The aunt thinks you killed your mother, he said. That's why she won't
+let me have anything to do with you.
+
+--Someone killed her, Stephen said gloomily.
+
+--You could have knelt down, damn it, Kinch, when your dying mother
+asked you, Buck Mulligan said. I'm hyperborean as much as you. But to
+think of your mother begging you with her last breath to kneel down and
+pray for her. And you refused. There is something sinister in you ...
+
+He broke off and lathered again lightly his farther cheek. A tolerant
+smile curled his lips.
+
+--But a lovely mummer! he murmured to himself. Kinch, the loveliest
+mummer of them all!
+
+He shaved evenly and with care, in silence, seriously.
+
+Stephen, an elbow rested on the jagged granite, leaned his palm
+against his brow and gazed at the fraying edge of his shiny black
+coat-sleeve. Pain, that was not yet the pain of love, fretted his heart.
+Silently, in a dream she had come to him after her death, her wasted body
+within its loose brown graveclothes giving off an odour of wax and
+rosewood, her breath, that had bent upon him, mute, reproachful, a faint
+odour of wetted ashes. Across the threadbare cuffedge he saw the sea
+hailed as a great sweet mother by the wellfed voice beside him. The ring
+of bay and skyline held a dull green mass of liquid. A bowl of white china
+had stood beside her deathbed holding the green sluggish bile which she
+had torn up from her rotting liver by fits of loud groaning vomiting.
+
+Buck Mulligan wiped again his razorblade.
+
+--Ah, poor dogsbody! he said in a kind voice. I must give you a shirt and
+a few noserags. How are the secondhand breeks?
+
+--They fit well enough, Stephen answered.
+
+Buck Mulligan attacked the hollow beneath his underlip.
+
+--The mockery of it, he said contentedly. Secondleg they should be. God
+knows what poxy bowsy left them off. I have a lovely pair with a hair
+stripe, grey. You'll look spiffing in them. I'm not joking, Kinch. You
+look damn well when you're dressed.
+
+--Thanks, Stephen said. I can't wear them if they are grey.
+
+--He can't wear them, Buck Mulligan told his face in the mirror.
+Etiquette is etiquette. He kills his mother but he can't wear grey
+trousers.
+
+He folded his razor neatly and with stroking palps of fingers felt the
+smooth skin.
+
+Stephen turned his gaze from the sea and to the plump face with its
+smokeblue mobile eyes.
+
+--That fellow I was with in the Ship last night, said Buck Mulligan, says
+you have g.p.i. He's up in Dottyville with Connolly Norman. General
+paralysis of the insane!
+
+He swept the mirror a half circle in the air to flash the tidings abroad
+in sunlight now radiant on the sea. His curling shaven lips laughed and
+the edges of his white glittering teeth. Laughter seized all his strong
+wellknit trunk.
+
+--Look at yourself, he said, you dreadful bard!
+
+Stephen bent forward and peered at the mirror held out to him, cleft
+by a crooked crack. Hair on end. As he and others see me. Who chose this
+face for me? This dogsbody to rid of vermin. It asks me too.
+
+--I pinched it out of the skivvy's room, Buck Mulligan said. It does her
+all right. The aunt always keeps plainlooking servants for Malachi. Lead
+him not into temptation. And her name is Ursula.
+
+Laughing again, he brought the mirror away from Stephen's peering
+eyes.
+
+--The rage of Caliban at not seeing his face in a mirror, he said. If
+Wilde were only alive to see you!
+
+Drawing back and pointing, Stephen said with bitterness:
+
+--It is a symbol of Irish art. The cracked looking-glass of a servant.
+
+Buck Mulligan suddenly linked his arm in Stephen's and walked with
+him round the tower, his razor and mirror clacking in the pocket where he
+had thrust them.
+
+--It's not fair to tease you like that, Kinch, is it? he said kindly. God
+knows you have more spirit than any of them.
+
+Parried again. He fears the lancet of my art as I fear that of his. The
+cold steelpen.
+
+--Cracked lookingglass of a servant! Tell that to the oxy chap downstairs
+and touch him for a guinea. He's stinking with money and thinks you're
+not a gentleman. His old fellow made his tin by selling jalap to Zulus or
+some bloody swindle or other. God, Kinch, if you and I could only work
+together we might do something for the island. Hellenise it.
+
+Cranly's arm. His arm.
+
+--And to think of your having to beg from these swine. I'm the only one
+that knows what you are. Why don't you trust me more? What have you up
+your nose against me? Is it Haines? If he makes any noise here I'll bring
+down Seymour and we'll give him a ragging worse than they gave Clive
+Kempthorpe.
+
+Young shouts of moneyed voices in Clive Kempthorpe's rooms. Palefaces:
+they hold their ribs with laughter, one clasping another. O, I
+shall expire! Break the news to her gently, Aubrey! I shall die! With slit
+ribbons of his shirt whipping the air he hops and hobbles round the table,
+with trousers down at heels, chased by Ades of Magdalen with the tailor's
+shears. A scared calf's face gilded with marmalade. I don't want to be
+debagged! Don't you play the giddy ox with me!
+
+Shouts from the open window startling evening in the quadrangle. A
+deaf gardener, aproned, masked with Matthew Arnold's face, pushes his
+mower on the sombre lawn watching narrowly the dancing motes of
+grasshalms.
+
+To ourselves ... new paganism ... omphalos.
+
+--Let him stay, Stephen said. There's nothing wrong with him except at
+night.
+
+--Then what is it? Buck Mulligan asked impatiently. Cough it up. I'm
+quite frank with you. What have you against me now?
+
+They halted, looking towards the blunt cape of Bray Head that lay on
+the water like the snout of a sleeping whale. Stephen freed his arm
+quietly.
+
+--Do you wish me to tell you? he asked.
+
+--Yes, what is it? Buck Mulligan answered. I don't remember anything.
+
+He looked in Stephen's face as he spoke. A light wind passed his
+brow, fanning softly his fair uncombed hair and stirring silver points of
+anxiety in his eyes.
+
+Stephen, depressed by his own voice, said:
+
+--Do you remember the first day I went to your house after my mother's
+death?
+
+Buck Mulligan frowned quickly and said:
+
+--What? Where? I can't remember anything. I remember only ideas and
+sensations. Why? What happened in the name of God?
+
+--You were making tea, Stephen said, and went across the landing to get
+more hot water. Your mother and some visitor came out of the
+drawingroom. She asked you who was in your room.
+
+--Yes? Buck Mulligan said. What did I say? I forget.
+
+--You said, Stephen answered, O, IT'S ONLY DEDALUS WHOSE MOTHER IS
+BEASTLY DEAD.
+
+A flush which made him seem younger and more engaging rose to
+Buck Mulligan's cheek.
+
+--Did I say that? he asked. Well? What harm is that?
+
+He shook his constraint from him nervously.
+
+--And what is death, he asked, your mother's or yours or my own? You
+saw only your mother die. I see them pop off every day in the Mater and
+Richmond and cut up into tripes in the dissectingroom. It's a beastly
+thing and nothing else. It simply doesn't matter. You wouldn't kneel down
+to pray for your mother on her deathbed when she asked you. Why? Because
+you have the cursed jesuit strain in you, only it's injected the wrong
+way. To me it's all a mockery and beastly. Her cerebral lobes are not
+functioning. She calls the doctor sir Peter Teazle and picks buttercups
+off the quilt. Humour her till it's over. You crossed her last wish in
+death and yet you sulk with me because I don't whinge like some hired mute
+from Lalouette's. Absurd! I suppose I did say it. I didn't mean to offend
+the memory of your mother.
+
+He had spoken himself into boldness. Stephen, shielding the gaping
+wounds which the words had left in his heart, said very coldly:
+
+--I am not thinking of the offence to my mother.
+
+--Of what then? Buck Mulligan asked.
+
+--Of the offence to me, Stephen answered.
+
+Buck Mulligan swung round on his heel.
+
+--O, an impossible person! he exclaimed.
+
+He walked off quickly round the parapet. Stephen stood at his post,
+gazing over the calm sea towards the headland. Sea and headland now
+grew dim. Pulses were beating in his eyes, veiling their sight, and he
+felt the fever of his cheeks.
+
+A voice within the tower called loudly:
+
+--Are you up there, Mulligan?
+Project Gutenberg Etexts are often created from several printed
+editions, all of which are confirmed as Public Domain in the US
+unless a copyright notice is included.  Thus, we usually do not
+keep etexts in compliance with any particular paper edition.
+
+We are now trying to release all our etexts one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our sites at:
+http://gutenberg.net or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+Gutenberg, including how to donate, how to help produce our new
+etexts, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any Etext before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext03 or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+9942787836785
+ssffvsdgkrljtljbtiosjtoirjkibikjgoñjjmbtjsbmtsiobisojboshjostiohj068905960334'05434459685930433335555555556
+3940000593094605869796'4094230493058946098597860794'503'490395u90685¡0846306¡89038¡28490¡7ifhsnfsghwj.bvjkbsdf.,b
+gbfjksbkjf.bdk.frhgohdlñvhaorhguhgtubhnvj ngkbñnf,.vnrlenlbtjñlqvnrékdfr´qi4o3qgrhqo4023lkfh´wkrlwhññio45h3049hg´r
+erohigeoñrlñkfeohrioghwbngoi`hw`h5`w9rerohigeoñrlñkfeohrioghwbngoi`hw`h5`w9rerohigeoñrlñkfeohrioghwbngoi`hw`h5`w9r
+796795892875977527472765724279942787836785796795892875977527472765724279942787836785
+ssffvsdgkrljtljbtiosjtoirjkibikjgoñjjmbtjsbmtsiobisojboshjostiohj068905960334'05434459685930433335555555556
+3940000593094605869796'4094230493058946098597860794'503'490395u90685¡0846306¡89038¡28490¡7ifhsnfsghwj.bvjkbsdf.,b
+gbfjksbkjf.bdk.frhgohdlñvhaorhguhgtubhnvj ngkbñnf,.vnrlenlbtjñlqvnrékdfr´qi4o3qgrhqo4023lkfh´wkrlwhññio45h3049hg´r
+erohigeoñrlñkfeohrioghwbngoi`hw`h5`w9rerohigeoñrlñkfeohrioghwbngoi`hw`h5`w9rerohigeoñrlñkfeohrioghwbngoi`hw`h5`w9r
+ssffvsdgkrljtljbtiosjtoirjkibikjgoñjjmbtjsbmtsiobisojboshjostiohj068905960334'05434459685930433335555555556
+3940000593094605869796'4094230493058946098597860794'503'490395u90685¡0846306¡89038¡28490¡7ifhsnfsghwj.bvjkbsdf.,b
+gbfjksbkjf.bdk.frhgohdlñvhaorhguhgtubhnvj ngkbñnf,.vnrlenlbtjñlqvnrékdfr´qi4o3qgrhqo4023lkfh´wkrlwhññio45h3049hg´r
+erohigeoñrlñkfeohrioghwbngoi`hw`h5`w9rerohigeoñrlñkfeohrioghwbngoi`hw`h5`w9rerohigeoñrlñkfeohrioghwbngoi`hw`h5`w9r
+ssffvsdgkrljtljbtiosjtoirjkibikjgoñjjmbtjsbmtsiobisojboshjostiohj068905960334'05434459685930433335555555556
+3940000593094605869796'4094230493058946098597860794'503'490395u90685¡0846306¡89038¡28490¡7ifhsnfsghwj.bvjkbsdf.,b
+gbfjksbkjf.bdk.frhgohdlñvhaorhguhgtubhnvj ngkbñnf,.vnrlenlbtjñlqvnrékdfr´qi4o3qgrhqo4023lkfh´wkrlwhññio45h3049hg´r
+erohigeoñrlñkfeohrioghwbngoi`hw`h5`w9rerohigeoñrlñkfeohrioghwbngoi`hw`h5`w9rerohigeoñrlñkfeohrioghwbngoi`hw`h5`w9r
+7967958ssffvsdgkrljtljbtiosjtoirjkibikjgoñjjmbtjsbmtsiobisojboshjostiohj068905960334'05434459685930433335555555556
+3940000593094605869796'4094230493058946098597860794'503'490395u90685¡0846306¡89038¡28490¡7ifhsnfsghwj.bvjkbsdf.,b
+gbfjksbkjf.bdk.frhgohdlñvhaorhguhgtubhnvj ngkbñnf,.vnrlenlbtjñlqvnrékdfr´qi4o3qgrhqo4023lkfh´wkrlwhññio45h3049hg´r
+erohigeoñrlñkfeohrioghwbngoi`hw`h5`w9rerohigeoñrlñkfeohrioghwbngoi`hw`h5`w9rerohigeoñrlñkfeohrioghwbngoi`hw`h5`w9r
+796795892875977527472765724279942787836785796795892875977527472765724279942787836785
